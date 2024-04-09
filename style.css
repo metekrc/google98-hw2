@@ -1,0 +1,49 @@
+/**** Google Baslangıcı ****/
+
+.img-center {
+    margin: 0 auto; 
+}
+
+.container {
+
+    margin: 0 auto;
+}
+
+.search-box {
+    background-color: #EEEEEE;
+    margin: 0 6%;
+}
+
+.container2 {
+    margin: 3px 6% 0 6%;
+}
+
+.s-searches {
+    width: 37%;
+    height: 78px;
+    background-color: #7EE5DA;
+    float: left;
+}
+
+.help-box {
+    width: 22.5%;
+    height: 78px;
+    background-color: #70ccc2;
+    float: left;
+    margin-left: 0.25%;
+    padding: auto;
+}
+
+.mail-box {
+    width: 40%;
+    height: 78px;
+    background-color: #62B3AA;
+    float: left;
+    margin-left: 0.25%;
+    padding: auto;
+    margin-bottom: 10px;
+}
+
+.clearfix {
+    clear: both
+}
